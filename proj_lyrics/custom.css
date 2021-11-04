@@ -1,9 +1,16 @@
 
 body{
-    background-color: beige
+    background-color: rgb(241, 241, 204)
 }
 
 p{
-    color: blue;
+    color: rgb(7, 7, 245);
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.centralizar{
+    border: 2px black;
+    size: auto 100px;
+    text-align: center;
+
 }
